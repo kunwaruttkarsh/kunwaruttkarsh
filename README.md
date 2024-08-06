@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Utkarsh
-- 👀 I’m interested in android an ai development
+- 👀 I’m interested in ai development
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 that's my kunwaruttkarsh@gmail.com
